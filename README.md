@@ -22,6 +22,6 @@ Contact person:
 
 Project image:
 
-![Image of project](https://github.com/azimbekm/Calculator/blob/master/project.JPG)
+![Image of project](https://github.com/azimbekm/PingPong/blob/master/project.JPG)
 
-![Image of project](https://github.com/azimbekm/Calculator/blob/master/cs.png)
+![Image of project](https://github.com/azimbekm/PingPong/blob/master/cs.png)
