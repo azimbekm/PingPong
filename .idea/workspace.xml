@@ -7,9 +7,9 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+    <option name="HIGHLIGHT_CONFLICTS"  value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"  value="false" />
+    <option name="LAST_RESOLUTION"  value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
